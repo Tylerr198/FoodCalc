@@ -22,6 +22,6 @@ function calc() {
         document.getElementById("pay").innerHTML = "Something wrong";
     }
     else{
-        document.getElementById("pay").innerHTML = pay;
+        document.getElementById("pay").innerHTML = "$" + pay;
     }
 }

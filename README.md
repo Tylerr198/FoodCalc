@@ -1,1 +1,1 @@
-# FoodCalc
+# SplitCalc

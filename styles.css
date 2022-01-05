@@ -1,1 +1,27 @@
 
+h1{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;  
+}
+
+input{
+  margin: auto;
+  display: block;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+div{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+#pay{
+  color: green;
+  font-size: 5ch;
+}
